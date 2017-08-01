@@ -1,2 +1,0 @@
-# YccOpenRepository
-YenCheChang Open Repository
